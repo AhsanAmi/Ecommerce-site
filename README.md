@@ -1,7 +1,7 @@
 # Ecommerce-site
 
 # Live Demo 🎥
-<a href="https://ahsan-amin.github.io/Ecommerce-site/">Live Demo Link</a>
+<a href="https://ahsanami.github.io/Ecommerce-site/">Live Demo Link</a>
 <br>
 <img src="./readme/readme.png">
 # Build with
@@ -42,7 +42,7 @@ Please make sure to follow our coding standards and best practices
 			</li>
             <h4>You can also follow my GitHub Profile to stay updated about my latest projects</h4>
 			<li >
-				<label>GitHub:<label><a href="https://github.com/Ahsan-Amin">@github</a>
+				<label>GitHub:<label><a href="https://github.com/ahsanami">@github</a>
 			</li>
 		<br>
  If you liked the repo then kindly support it by giving it a star ⭐!
